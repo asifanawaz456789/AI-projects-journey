@@ -12,8 +12,7 @@ from typing import List, Dict, Optional
 # ============================================
 
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
-API_KEY = "API KEY" 
-#"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"
+API_KEY = "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"
 MODEL = "llama-3.1-8b-instant"
 MAX_TOKENS = 200
 MAX_HISTORY = 6  # Keep last 6 messages for context

@@ -10,8 +10,7 @@ from typing import List, Dict
 # CONFIGURATION
 # ============================================
 
-API_KEY = "API KEY"
-#"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"
+API_KEY = "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"
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama-3.1-8b-instant"
 MAX_TOKENS = 512
